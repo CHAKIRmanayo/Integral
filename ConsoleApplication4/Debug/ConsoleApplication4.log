@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lr3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Integral.cpp
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication4\consoleapplication4\integral.cpp(24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication4\consoleapplication4\integral.cpp(26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication4\consoleapplication4\integral.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication4\consoleapplication4\integral.cpp(27): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note:  см. объявление "getch"
+c:\users\maksi\onedrive\документы\visual studio 2012\projects\шишкин\consoleapplication4\consoleapplication4\integral.cpp(41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\maksi\OneDrive\Документы\Visual Studio 2012\Projects\Шишкин\ConsoleApplication4\Debug\Integral.exe
